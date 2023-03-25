@@ -10,6 +10,6 @@ WHERE
 		FROM
 			emp_table
 		WHERE
-			emp_salary < 250000
+			emp_salary < 275000
 		AND
 			EXTRACT('year', effective_date) = '2017'
