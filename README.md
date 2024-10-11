@@ -1,4 +1,4 @@
-# SQL-Examples
+# SQL Queries Examples
 
 ## Queries
 1. college_contests
